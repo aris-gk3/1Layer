@@ -12,10 +12,10 @@
 #define NIF 6
 #define NIX 22
 #define NIY 22
-#define NOF 12
+#define NOF 20
 #define NOX ((NIX-NKX)/S + 1) // 10
 #define NOY ((NIY-NKY)/S + 1) // 10
-#define TOF 4
+#define TOF 10
 #define TOX NOX // 10
 #define TOY 10
 #define TIF NIF
